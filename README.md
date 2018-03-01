@@ -1,2 +1,3 @@
-# MarimoTrail
+# Marimo Trail
+
 Explore the sea!
